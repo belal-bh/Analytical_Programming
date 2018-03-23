@@ -1,4 +1,4 @@
-# [UVa 100 - The 3n + 1 problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=121&page=show_problem&problem=36)
+# [100	The 3n + 1 problem](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=121&page=show_problem&problem=36)
 
 ---
 ## About solution
@@ -21,6 +21,6 @@ So, I kept the type of variable ```n``` is ```long long int``` in [rec](https://
 ## Author
   [Md. Belal Hossain](https://github.com/belal-bh)
   
-## Welcome
+## Welcome Back
 Please comment out your idea about this solution.
-Thanks.
+Happy Programming :)
