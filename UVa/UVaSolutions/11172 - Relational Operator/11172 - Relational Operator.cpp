@@ -1,10 +1,3 @@
-/*
- * UVa 11172 - Relational Operator
- * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2113
- * Root :: Contest Volumes (10000...) :: Volume 112 (11200-11299)
- * belal_bh
- * 03.01.2018
- */
 #include<bits/stdc++.h>
 
 using namespace std;
@@ -20,4 +13,3 @@ int main(){
     }
     return 0;
 }
-
