@@ -1,10 +1,3 @@
-/*
- * UVa 119 - Greedy Gift Givers
- * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=55
- * Root :: Problem Set Volumes (100...1999) :: Volume 1 (100-199)
- * belal_bh
- * 01.01.2018
- */
 #include<bits/stdc++.h>
 
 using namespace std;
