@@ -1,10 +1,3 @@
-/*
- * UVa 10424 - Love Calculator
- * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=16&page=show_problem&problem=1365
- * Root :: Contest Volumes (10000...) :: Volume 104 (10400-10499)
- * belal_bh
- * 01.01.2018
- */
 #include<bits/stdc++.h>
 
 using namespace std;
