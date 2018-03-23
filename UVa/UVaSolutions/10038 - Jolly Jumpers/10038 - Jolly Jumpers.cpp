@@ -1,10 +1,3 @@
-/*
- * UVa 10038 - Jolly Jumpers
- * https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=979
- * Root :: Contest Volumes (10000...) :: Volume 112 (11200-11299)
- * belal_bh
- * 06.01.2018
- */
 #include<bits/stdc++.h>
 
 using namespace std;
