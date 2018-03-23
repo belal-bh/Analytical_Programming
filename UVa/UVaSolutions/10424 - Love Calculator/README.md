@@ -1,4 +1,4 @@
-# [UVa 10424 - Love Calculator](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=16&page=show_problem&problem=1365)
+# [10424 - Love Calculator](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=16&page=show_problem&problem=1365)
 
 
 ## Editorial
@@ -28,6 +28,4 @@ Thats all in time :)
  
  
 ## Welcome back
-Share your idea about this problem & happy coding :)
-
-Thanks.
+Happy programming :)
