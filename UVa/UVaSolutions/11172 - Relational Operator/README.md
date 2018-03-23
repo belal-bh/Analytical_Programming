@@ -1,4 +1,4 @@
-# [UVa 11172 - Relational Operator](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2113)
+# [11172 - Relational Operator](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2113)
 
 ## Editorial
 
@@ -17,5 +17,3 @@ That's all in time :)
 ## Welcome back
 
 Happy coding :)
-
-Thanks.
