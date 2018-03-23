@@ -1,4 +1,4 @@
-# [UVa 458 - The Decoder](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=399)
+# [458 - The Decoder](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=399)
 
 ## Editorial
 
@@ -77,11 +77,11 @@ It's fun!!!
 
 Thats all in time :)
 
-## Author
+### Author
  [Md. Belal Hossain](https://github.com/belal-bh)
  
  
-## Welcome back
+### Welcome back
 
 Happy coding :)
 
