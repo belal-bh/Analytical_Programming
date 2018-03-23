@@ -1,4 +1,4 @@
-# [UVa 10071 - Back to High School](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1012)
+# [10071 - Back to High School](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=1012)
 
 ## Editorial
 The problem was supper easy!!! But you have to know some physics law. Say a particle has initial velocity ```u``` and acceleration ```a```.
@@ -32,6 +32,4 @@ Thats all in time :)
  
  
 ## Welcome back
-Happy coding :)
-
-Thanks.
+Happy programming :)
