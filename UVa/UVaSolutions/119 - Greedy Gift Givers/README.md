@@ -1,4 +1,4 @@
-# [UVa 119 - Greedy Gift Givers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=55)
+# [119 - Greedy Gift Givers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=3&page=show_problem&problem=55)
 
 ## Editorial
 The problem was easy but need some care about presenting output. ```The output for each group should be separated from other groups by a blank line.``` But ```mind it "no extra blank line have in the last line of last output group!!```.
