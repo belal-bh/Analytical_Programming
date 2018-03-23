@@ -1,4 +1,4 @@
-# [UVa 10038 - Jolly Jumpers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=979)
+# [10038 - Jolly Jumpers](https://uva.onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=979)
 
 ## Editorial
 
@@ -11,7 +11,7 @@ that ```any sequence of a single integer``` is a jolly jumper.
 That means, if n=1 then it is jolly jumper by definition. And "if the absolute values of the difference between
 successive elements take on all the values 1 through n-1" means that no need sequentially ```1,2,3...,n-1``` or ```n-1,...3,2,1``` etc. but it have to contain all values 1 through n-1.
 
-Thats all in time :)
+That's all.
 
 ## Author
  [Md. Belal Hossain](https://github.com/belal-bh)
