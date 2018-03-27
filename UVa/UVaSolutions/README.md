@@ -32,7 +32,13 @@
   * [11172 - Relational Operator](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/11172%20-%20Relational%20Operator)
   * [119 - Greedy Gift Givers](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/119%20-%20Greedy%20Gift%20Givers)
   * [458 - The Decoder](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/458%20-%20The%20Decoder)
+  * [12157 Tariff Plan](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/12157%20Tariff%20Plan)
+  * [12250 Language Detection](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/12250%20Language%20Detection)
+  * [12015 Google is Feeling Lucky](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/12015%20Google%20is%20Feeling%20Lucky)
+  * [11875 Brick Game](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/11875%20Brick%20Game)
+  * [11827 Maximum GCD](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/11827%20Maximum%20GCD)
   * []()
+  
   
   
   
