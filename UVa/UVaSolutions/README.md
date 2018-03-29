@@ -49,7 +49,15 @@
   * [10346 Peter’s Smokes](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/10346%20Peter-s%20Smokes)
   * [10370 Above Average](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/10370%20Above%20Average)
   * [10921 Find the Telephone](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/10921%20Find%20the%20Telephone)
+  * [11313 Gourmet Games](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/11313%20Gourmet%20Games)
+  * [11417 GCD](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/11417%20GCD)
+  * [11498 Division of Nlogonia](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/11498%20Division%20of%20Nlogonia)
+  * [11547 Automatic Answer](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/11547%20Automatic%20Answer)
+  * [11727 Cost Cutting](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/11727%20Cost%20Cutting)
+  * [11764 Jumping Mario](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/11764%20Jumping%20Mario)
+  * [371 Ackermann Functions](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/371%20Ackermann%20Functions)
   * []()
+  
   
   
   
