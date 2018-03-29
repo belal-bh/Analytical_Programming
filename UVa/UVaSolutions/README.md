@@ -56,6 +56,10 @@
   * [11727 Cost Cutting](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/11727%20Cost%20Cutting)
   * [11764 Jumping Mario](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/11764%20Jumping%20Mario)
   * [371 Ackermann Functions](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/371%20Ackermann%20Functions)
+  * [579-Clock Hands](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/579-Clock%20Hands)
+  * [1124	Celebrity jeopardy](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/1124%20Celebrity%20jeopardy)
+  * [11364 Optimal Parking](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/11364%20Optimal%20Parking)
+  * [10773 Back to Intermediate Math](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/10773%20Back%20to%20Intermediate%20Math)
   * []()
   
   
