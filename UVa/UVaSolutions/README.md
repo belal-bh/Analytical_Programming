@@ -40,7 +40,7 @@
   * [12289 One-Two-Three](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/12289%20One-Two-Three)
   * [12502 Three Families](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/12502%20Three%20Families)
   * [12503 Robot Instructions](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/12503%20Robot%20Instructions)
-  * []()
+  * [12577 Hajj-e-Akbar](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/12577%20Hajj-e-Akbar)
   * []()
   
   
