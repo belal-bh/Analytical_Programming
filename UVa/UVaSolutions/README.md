@@ -9,6 +9,7 @@
 ## Not-Easy Problems
   * [13194 - DPA Numbers II](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/13194%20-%20DPA%20Numbers%20II) : Number Theory
   * [108 - Maximum Sum](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/108%20-%20Maximum%20Sum)
+  * [11152 Colourful Flowers](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/11152%20Colourful%20Flowers)
   
 
 
@@ -44,6 +45,11 @@
   * [12577 Hajj-e-Akbar](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/12577%20Hajj-e-Akbar)
   * [102 Ecological Bin Packing](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/102%20Ecological%20Bin%20Packing)
   * [113 - Power of Cryptography](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/113%20-%20Power%20of%20Cryptography)
+  * [10323 Factorial! You Must be Kidding!!!](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/10323%20Factorial-%20You%20Must%20be%20Kidding)
+  * [10346 Peter’s Smokes](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/10346%20Peter-s%20Smokes)
+  * [10370 Above Average](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/10370%20Above%20Average)
+  * [10921 Find the Telephone](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/10921%20Find%20the%20Telephone)
+  * []()
   
   
   
