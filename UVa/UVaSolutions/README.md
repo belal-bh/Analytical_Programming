@@ -3,12 +3,13 @@
 ## Tried But Unsolved
   * [10901 - Ferry Loading III](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/10901%20-%20Ferry%20Loading%20III) : Wrong Answer
   * [1062 Containers](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/1062%20Containers)
-  * []()
+  
   
 
 ## Not-Easy Problems
   * [13194 - DPA Numbers II](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/13194%20-%20DPA%20Numbers%20II) : Number Theory
-  * []()
+  * [108 - Maximum Sum](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/108%20-%20Maximum%20Sum)
+  
 
 
 
@@ -41,12 +42,15 @@
   * [12502 Three Families](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/12502%20Three%20Families)
   * [12503 Robot Instructions](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/12503%20Robot%20Instructions)
   * [12577 Hajj-e-Akbar](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/12577%20Hajj-e-Akbar)
-  * []()
+  * [102 Ecological Bin Packing](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/102%20Ecological%20Bin%20Packing)
+  * [113 - Power of Cryptography](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/113%20-%20Power%20of%20Cryptography)
+  
+  
   
   
 ## Special Problem
   * [12403 Save Shetu](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/12403%20Save%20Shetu)
-  * []()
+  
   
   
   
