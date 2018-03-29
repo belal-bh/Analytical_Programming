@@ -38,6 +38,8 @@
   * [11875 Brick Game](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/11875%20Brick%20Game)
   * [11827 Maximum GCD](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/11827%20Maximum%20GCD)
   * [12289 One-Two-Three](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/12289%20One-Two-Three)
+  * [12502 Three Families](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/12502%20Three%20Families)
+  * [12503 Robot Instructions](https://github.com/belal-bh/Analytical_Programming/tree/master/UVa/UVaSolutions/12503%20Robot%20Instructions)
   * []()
   * []()
   
