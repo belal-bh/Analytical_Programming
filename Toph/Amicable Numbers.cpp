@@ -3,10 +3,13 @@
 #include<bits/stdc++.h>
 using namespace std;
 
+#define MAX_size  1000        //10000001 required
+vector<int> s(MAX_size,1);
+
 long SOF(long p, long k){
-    long s=1;
-    for(long i=1; i<=k+1; i++)s*=p;
-    return (s-1)/(p-1);
+    long x=1;
+    for(long i=1; i<=k+1; i++)x*=p; // something went wrong wit pow(p,k+1) function ,so loop
+    return (x-1)/(p-1);
 }
 
 // Using SieveOfEratosthenes to find smallest prime
@@ -16,7 +19,7 @@ long SOF(long p, long k){
 // s[3] = s[9] = 3
 // s[5] = 5
 // s[7] = 7
-void sieveOfEratosthenes(long N, vector<long> s)
+void sieveOfEratosthenes(long N ) //, vector<long>& s
 {
     // Create a boolean array "prime[0..n]" and
     // initialize all entries in it as false.
@@ -52,7 +55,7 @@ void sieveOfEratosthenes(long N, vector<long> s)
 }
 
 // Function to generate prime factors and its power
-long generatePrimeFactors(long N, vector<long> s)
+long generatePrimeFactors(long N )  //, vector<long>& s
 {
     long profac = N;
     long sum=1;
@@ -86,7 +89,7 @@ long generatePrimeFactors(long N, vector<long> s)
         //printf("%d\t%d\n", curr, cnt);
 
         // Sum of factor
-        sum=sum * SOF(curr,cnt);
+        sum=sum * SOF(curr,cnt); // sum of factors
 
         //printf("%d\n", sum);
 
@@ -95,17 +98,20 @@ long generatePrimeFactors(long N, vector<long> s)
         curr = s[N];
         cnt = 1;
     }
-    return sum - profac;
+    return sum - profac; // sum of the proper divisors
 }
 
 //Driver Program
 int main()
 {
-
+    //cout<<s.max_size()<<endl;
     long T,A,B;
     cin>>T;
-    vector<long> s(10000001);
-    sieveOfEratosthenes(10000001, s);
+    //vector<long> s(MAX_size,1);
+    sieveOfEratosthenes(MAX_size);
+    for(int i=0; i<MAX_size; i++){
+        cout<<"spf of "<<i<<" = "<<s[i]<<endl;
+    }
     for(long t=1; t<=T; t++){
         cin>>A>>B;
         //cout<<"A="<<A<<" B="<<B<<endl;
@@ -117,23 +123,11 @@ int main()
         printf("Case %d:\n",t);
         for(long i=A; i<=B; i++){
             for(long j=i+1; j<=B; j++){
-                if(generatePrimeFactors(i,s)==j && generatePrimeFactors(j,s)==i){
+                if(generatePrimeFactors(i)==j && generatePrimeFactors(j)==i){
                     cout<<i<<" "<<j<<endl;
                 }
             }
         }
-        //generatePrimeFactors(N);
     }
-
-    /*
-    int T;
-    cin>>T;
-    while(T--){
-        int A,B;
-        cin>>A>>B;
-        cout<<"A"<<A<<" SOF(A)=="<<generatePrimeFactors(A)<<endl;
-        cout<<"B"<<B<<" SOF(B)=="<<generatePrimeFactors(B)<<endl;
-    }
-    */
     return 0;
 }
